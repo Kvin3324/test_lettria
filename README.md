@@ -18,3 +18,6 @@ Le tout devra être transmis avec un dossier racine qui comportera:
 * `npm install`
 * Créer un fichier à la racine, `.env`
 * Ajouter dans le `.env` l'accès à la DB (donné par mail).
+* Lancer un server back avec la commande `node api/index.js`
+* Lancer un server front avec la commande `npm run start` et choisir un autre port (hors 3000).
+
